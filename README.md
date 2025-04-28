@@ -26,14 +26,12 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stacksimplify&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
+## ⭐ GitHub Stars
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=stacksimplify&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://img.shields.io/github/stars/stacksimplify?style=social" alt="GitHub Stars"/>
 </p>
+
 
 ---
 
