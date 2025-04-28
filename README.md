@@ -1,4 +1,8 @@
-# 👋 Hey, I'm Kalyan Reddy Daida — aka StackSimplify!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFD700&width=700&lines=Welcome+to+StackSimplify's+GitHub+Profile!;Empowering+Cloud%2C+DevOps%2C+Kubernetes+Learners+Worldwide!;Let's+Simplify+Tech+Together+🚀" alt="Typing SVG" />
+</p>
+
+# 👋 Hey, I'm Kalyan Reddy Daida — StackSimplify!
 
 🚀 Cloud | DevOps | Kubernetes | Terraform | AI Enthusiast  
 🎯 Mission: Simplify Real-World Tech | Build Hands-On Learning for 1M+ Students
@@ -29,11 +33,6 @@
 ## ⭐ GitHub Stars
 <p align="left">
   <img src="https://img.shields.io/github/stars/stacksimplify?label=Stars&logo=github&color=FFD700&style=for-the-badge" alt="GitHub Stars"/>
-</p>
-
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=stacksimplify&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
