@@ -27,11 +27,9 @@
 ---
 
 ## ⭐ GitHub Stars
-
 <p align="center">
-  <img src="https://img.shields.io/github/stars/stacksimplify?style=social" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/stars/stacksimplify?label=Stars&logo=github&color=FFD700&style=for-the-badge" alt="GitHub Stars"/>
 </p>
-
 
 ---
 
