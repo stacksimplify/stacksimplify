@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFD700&width=700&lines=Welcome+to+StackSimplify's+GitHub+Profile!;Empowering+Cloud%2C+DevOps%2C+Kubernetes+Learners+Worldwide!;Let's+Simplify+Tech+Together+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&width=700&lines=Welcome+to+StackSimplify's+GitHub+Profile!;Empowering+Cloud%2C+DevOps%2C+Kubernetes+Learners+Worldwide!;Let's+Simplify+Tech+Together+🚀" alt="Typing SVG" />
 </p>
+
 
 # 👋 Hey, I'm Kalyan Reddy Daida — StackSimplify!
 
