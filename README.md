@@ -35,6 +35,25 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Shining Star"/>
 </p>
 
+## ⭐ GitHub Stars
+<p align="center">
+  <img src="https://img.shields.io/github/stars/stacksimplify?label=Stars&logo=github&color=FFD700&style=for-the-badge" alt="GitHub Stars"/>
+</p>
+
+<p align="center">
+  <svg width="40" height="40" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g>
+      <circle cx="12" cy="12" r="10" stroke="gold" stroke-width="2" fill="none">
+        <animate attributeName="r" values="9;12;9" dur="2s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="12" cy="12" r="5" fill="gold">
+        <animate attributeName="r" values="4;6;4" dur="1.5s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="1;0.5;1" dur="1.5s" repeatCount="indefinite" />
+      </circle>
+    </g>
+  </svg>
+</p>
 
 ---
 
