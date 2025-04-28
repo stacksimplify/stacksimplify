@@ -35,6 +35,8 @@
 - 🌐 [Website](https://stacksimplify.com/)
 - 📧 [Email](mailto:dkalyanreddy@gmail.com)
 - 🎥 [YouTube](http://www.youtube.com/stacksimplify?sub_confirmation=1)
+- 💼 [LinkedIn](http://www.linkedin.com/in/kalyan-reddy-daida)
+
 
 ---
 
