@@ -32,8 +32,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Shining Star Gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750687-7e65bd4d-3f09-42d5-873d-6d60e6c3d7a5.gif" width="50px" alt="Premium Shining Star"/>
 </p>
+
 
 ---
 
