@@ -19,15 +19,8 @@
 
 ---
 
-## 🚀 Current Projects
-- 🛠 Building hands-on labs for AWS, GCP, Azure
-- 🎯 Working on CKAD & Kubernetes Practical Demos
-- 🤖 Researching how **AI** is reshaping **DevOps and Cloud Engineering**
-
----
-
 ## ⚡ Tech Stack
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,helm,linux,githubactions,python,java" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,linux,githubactions,python,java" />
 
 ---
 
