@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750687-7e65bd4d-3f09-42d5-873d-6d60e6c3d7a5.gif" width="50px" alt="Premium Shining Star"/>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Shining Star"/>
 </p>
 
 
