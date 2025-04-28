@@ -31,6 +31,10 @@
   <img src="https://img.shields.io/github/stars/stacksimplify?label=Stars&logo=github&color=FFD700&style=for-the-badge" alt="GitHub Stars"/>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Shining Star Gif"/>
+</p>
+
 ---
 
 ## 📫 Connect With Me
