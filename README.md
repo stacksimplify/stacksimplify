@@ -20,7 +20,14 @@
 ---
 
 ## ⚡ Tech Stack
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,linux,githubactions,python,java,spring,ansible,prometheus,grafana,helm,argocd" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,linux,githubactions,python,java,spring,ansible,prometheus,grafana" />
+
+<br/>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/horizontal/color/helm-horizontal-color.png" width="100" alt="Helm Logo"/>
+  <img src="https://raw.githubusercontent.com/argoproj/argo-cd/master/docs/assets/argo.png" width="100" alt="ArgoCD Logo"/>
+</p>
 
 ---
 
