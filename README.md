@@ -6,8 +6,8 @@
 
 [![Website](https://img.shields.io/badge/Website-stacksimplify.com-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://stacksimplify.com/)
 [![Students](https://img.shields.io/badge/Students-383%2C000%2B-0F2B46?style=for-the-badge&logo=udemy&logoColor=white)](https://stacksimplify.com/courses/)
-[![Courses](https://img.shields.io/badge/Courses-21-1B4F72?style=for-the-badge&logo=bookstack&logoColor=white)](https://stacksimplify.com/courses/)
-[![Newsletter](https://img.shields.io/badge/Newsletter-Subscribe-FF6B35?style=for-the-badge&logo=substack&logoColor=white)](https://stacksimplify.com/newsletter/)
+[![Courses](https://img.shields.io/badge/Courses-21-1B4F72?style=for-the-badge&logo=googlescholar&logoColor=white)](https://stacksimplify.com/courses/)
+[![Newsletter](https://img.shields.io/badge/Newsletter-Subscribe-FF6B35?style=for-the-badge&logo=maildotru&logoColor=white)](https://stacksimplify.com/newsletter/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalyan-reddy-daida)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/stacksimplify?sub_confirmation=1)
@@ -103,7 +103,7 @@ AKS, Azure DevOps pipelines, Terraform IaC, ACR, Application Gateway, Azure AD i
 </table>
 
 <div align="center">
-<a href="https://stacksimplify.com/courses/"><img src="https://img.shields.io/badge/View%20All%20Courses%20on%20Website-FF6B35?style=for-the-badge&logo=arrowright&logoColor=white" alt="View All"/></a>
+<a href="https://stacksimplify.com/courses/"><img src="https://img.shields.io/badge/View%20All%20Courses%20on%20Website%20%E2%86%92-FF6B35?style=for-the-badge&logoColor=white" alt="View All Courses"/></a>
 </div>
 
 ---
@@ -112,12 +112,12 @@ AKS, Azure DevOps pipelines, Terraform IaC, ACR, Application Gateway, Azure AD i
 
 **22 of 25 parts published.** A free series bridging DevOps skills to MLOps. Same mindset, different artifacts.
 
-| Part | Topic |
-|------|-------|
-| 1-5 | DevOps to MLOps · MLflow · Deployment Checklist · DVC · 5 Levels of ML Deployment |
-| 6-10 | Canary · Transformer+Predictor · Scale-to-Zero · SHAP · Model Monitoring |
-| 11-15 | Drift · Retraining · A/B Testing · Kubeflow · Feature Stores |
-| 16-22 | Governance · CI/CD for ML · Cost · Quality Gates · Batch vs Real-Time · GPU Scheduling · ML Security |
+| Parts | Topics |
+|-------|--------|
+| 1-6 | DevOps to MLOps · MLflow · Deployment Checklist · DVC · 5 Levels of ML Deployment · Canary |
+| 7-12 | Transformer+Predictor · Scale-to-Zero · SHAP · Model Monitoring · Drift · Retraining |
+| 13-17 | A/B Testing · Kubeflow · Feature Stores · Governance · CI/CD for ML |
+| 18-22 | Cost Optimization · Quality Gates · Batch vs Real-Time · GPU Scheduling · ML Security |
 
 ➡️ **[Read the full series](https://stacksimplify.com/blog/mlops-series/)** · 📬 **[Get notified of new parts](https://stacksimplify.com/newsletter/)**
 
@@ -127,24 +127,22 @@ AKS, Azure DevOps pipelines, Terraform IaC, ACR, Application Gateway, Azure AD i
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,linux,bash,githubactions,jenkins,ansible,prometheus,grafana,python,java,spring,nginx,redis,mysql,postgres&perline=10" alt="Tech Stack"/>
+**Cloud · Containers · IaC · CI/CD · Observability · Languages**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,linux,bash,githubactions,jenkins,ansible,prometheus,grafana,python,java,spring&perline=8" alt="Tech Stack"/>
 
 <br/><br/>
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+**Cloud-Native + MLOps Specialty**
+
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Karpenter](https://img.shields.io/badge/Karpenter-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![KServe](https://img.shields.io/badge/KServe-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=flat-square&logo=kubeflow&logoColor=white)
 
 </div>
 
@@ -162,17 +160,13 @@ AKS, Azure DevOps pipelines, Terraform IaC, ACR, Application Gateway, Azure AD i
 
 ---
 
-## 📫 Connect
-
 <div align="center">
 
-<a href="https://stacksimplify.com/"><img src="https://img.shields.io/badge/-Website-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://stacksimplify.com/newsletter/"><img src="https://img.shields.io/badge/-Newsletter-FF6B35?style=for-the-badge&logo=substack&logoColor=white"/></a>
-<a href="https://stacksimplify.com/about/"><img src="https://img.shields.io/badge/-About-0F2B46?style=for-the-badge&logo=aboutdotme&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/kalyan-reddy-daida"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.youtube.com/stacksimplify?sub_confirmation=1"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://twitter.com/stacksimplify"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="mailto:dkalyanreddy@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+### 📬 Get the Weekly Newsletter
+
+**One email a week. DevOps & Cloud insights from a 383K+ Udemy instructor. Free.**
+
+<a href="https://stacksimplify.com/newsletter/"><img src="https://img.shields.io/badge/Subscribe%20Free%20%E2%86%92-FF6B35?style=for-the-badge&logoColor=white" alt="Subscribe"/></a>
 
 </div>
 
@@ -190,7 +184,7 @@ If a topic isn't crystal clear by the end of the lecture, I rewrite the lecture.
 
 <br/>
 
-⭐ **If my courses or content have helped you, [star this profile](https://github.com/stacksimplify) and share it forward.**
+👤 **If my courses or content have helped you, [follow me on GitHub](https://github.com/stacksimplify) and share it forward.**
 
 <sub>© Kalyan Reddy Daida · StackSimplify</sub>
 
