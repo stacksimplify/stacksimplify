@@ -185,7 +185,7 @@ If a topic isn't crystal clear by the end of the lecture, I rewrite the lecture.
 
 <br/>
 
-👤 **If my courses or content have helped you, [follow me on GitHub](https://github.com/stacksimplify) and share it forward.**
+👤 Found this helpful? **[Follow on GitHub](https://github.com/stacksimplify)** for course repo updates · **[Follow on LinkedIn](https://www.linkedin.com/in/kalyan-reddy-daida)** for daily DevOps & MLOps content.
 
 <sub>© Kalyan Reddy Daida · StackSimplify</sub>
 
