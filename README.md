@@ -29,7 +29,7 @@ I'm **Kalyan Reddy Daida**, founder of **StackSimplify**. For the last decade I'
 🛠️ **The method:** hands-on demos, real-world projects, no fluff, no slideware.<br/>
 🚀 **The promise:** if a topic isn't simple by the end of the lecture, I rewrite the lecture.
 
-📍 Bangalore, India · 🌐 [stacksimplify.com](https://stacksimplify.com/) · 📬 [Newsletter](https://stacksimplify.com/newsletter/)
+🌐 [stacksimplify.com](https://stacksimplify.com/) · 📬 [Newsletter](https://stacksimplify.com/newsletter/) · 👤 [About](https://stacksimplify.com/about/)
 
 ---
 
@@ -150,25 +150,6 @@ AKS, Azure DevOps pipelines, Terraform IaC, ACR, Application Gateway, Azure AD i
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=stacksimplify&show_icons=true&theme=github_dark&hide_border=true&bg_color=0F2B46&title_color=FF6B35&icon_color=FF6B35&text_color=ffffff" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stacksimplify&layout=compact&theme=github_dark&hide_border=true&bg_color=0F2B46&title_color=FF6B35&text_color=ffffff" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=stacksimplify&theme=github-dark-blue&hide_border=true&background=0F2B46&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" alt="Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=stacksimplify&bg_color=0F2B46&color=FF6B35&line=FF6B35&point=ffffff&hide_border=true&area=true" alt="Activity Graph"/>
-
-</div>
-
----
-
 ## 🏆 Milestones
 
 <div align="center">
@@ -211,6 +192,6 @@ If a topic isn't crystal clear by the end of the lecture, I rewrite the lecture.
 
 ⭐ **If my courses or content have helped you, [star this profile](https://github.com/stacksimplify) and share it forward.**
 
-<sub>© Kalyan Reddy Daida · StackSimplify · Built with ☕ in Bangalore</sub>
+<sub>© Kalyan Reddy Daida · StackSimplify</sub>
 
 </div>
