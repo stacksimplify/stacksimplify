@@ -21,10 +21,6 @@
 
 ---
 
-> 🆕 **Latest blog:** [Part 22 — ML Security on Kubernetes: 4 Layers Protecting Your Models](https://stacksimplify.com/blog/ml-security-kubernetes/) · Published Apr 19, 2026
-
----
-
 ## 👋 About Me
 
 I'm **Kalyan Reddy Daida**, founder of **StackSimplify**. For the last decade I've been teaching cloud and DevOps to engineers around the world. Today **383,000+ students with 32,000+ reviews** learn AWS, Azure, GCP, Kubernetes, Terraform, and MLOps through my hands-on courses.
