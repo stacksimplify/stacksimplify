@@ -14,10 +14,14 @@
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/stacksimplify)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dkalyanreddy@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=stacksimplify&style=flat-square&color=FF6B35&label=Profile+Views)
 [![GitHub Followers](https://img.shields.io/github/followers/stacksimplify?style=flat-square&color=0F2B46&label=Followers)](https://github.com/stacksimplify)
+[![GitHub Stars](https://img.shields.io/github/stars/stacksimplify?style=flat-square&color=FF6B35&label=Total+Stars)](https://github.com/stacksimplify)
 
 </div>
+
+---
+
+> 🆕 **Latest blog:** [Part 22 — ML Security on Kubernetes: 4 Layers Protecting Your Models](https://stacksimplify.com/blog/ml-security-kubernetes/) · Published Apr 19, 2026
 
 ---
 
@@ -100,6 +104,7 @@ AKS, Azure DevOps pipelines, Terraform IaC, ACR, Application Gateway, Azure AD i
 <tr><td>19</td><td><b>Docker in a Weekend</b></td><td>Docker · 40 Demos</td><td><a href="https://stacksimplify.com/courses/docker-weekend/">Enroll</a></td></tr>
 <tr><td>20</td><td><b>Helm Masterclass</b></td><td>Helm · Kubernetes · 50 Demos</td><td><a href="https://stacksimplify.com/courses/helm-masterclass/">Enroll</a></td></tr>
 <tr><td>21</td><td><b>Spring Boot RESTful APIs</b></td><td>Java · Spring Boot</td><td><a href="https://stacksimplify.com/courses/spring-boot-restful/">Enroll</a></td></tr>
+<tr><td>🚀</td><td colspan="3" align="center"><i>More courses in the pipeline. <a href="https://stacksimplify.com/newsletter/">Get notified</a> when they launch.</i></td></tr>
 </table>
 
 <div align="center">
